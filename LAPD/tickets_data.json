@@ -1,0 +1,56 @@
+{
+    "panel_channel_id": 1451271870019014770,
+    "panel_message_id": 1470312654718374046,
+    "log_channel_id": 1331018524218626100,
+    "tickets": {
+        "1470348654039535746": {
+            "type": "ia",
+            "claimed_by": null
+        }
+    },
+    "panel_embed": {
+        "title": "LAPD | Support System",
+        "color": 727629,
+        "thumbnail": "https://cdn.discordapp.com/icons/1292523481539543193/547df1f10a071619f4b98875a7e11aed.png?size=512",
+        "image": "https://cdn.discordapp.com/attachments/1323283795821985813/1423719750243975240/Variety_of_images_14.png?ex=68e155d7&is=68e00457&hm=7d1cc783a2a786cd3c9fa503911ac08581940943af43b1d24c22e53138062ce9",
+        "footer": "LAPD Ticket System \u2022 Reference: https://discord.com/channels/1292523481539543193/1381403686814613634/1469725881642516540"
+    },
+    "ticket_types": {
+        "general": {
+            "name": "General Support",
+            "emoji": "\ud83d\udee0\ufe0f",
+            "description": "Inquiries \u2022 Concerns \u2022 LAPD Questions",
+            "category_id": 1376216650000633957,
+            "staff_role_id": 1306382245895868476,
+            "embed_color": 3900150,
+            "restricted": false
+        },
+        "ia": {
+            "name": "Internal Affairs",
+            "emoji": "\ud83d\udee1\ufe0f",
+            "description": "Officer Reports \u2022 IA Appeals \u2022 Misconduct",
+            "category_id": 1376216515191509082,
+            "staff_role_id": 1306458776181800990,
+            "embed_color": 15680580,
+            "restricted": false
+        },
+        "shr": {
+            "name": "Senior High Rank Support",
+            "emoji": "\u2b50",
+            "description": "SHR Inquiries \u2022 Appeals \u2022 Concerns",
+            "category_id": 1376216650000633957,
+            "staff_role_id": 1339058176003407915,
+            "embed_color": 16096779,
+            "restricted": true
+        },
+        "citizen": {
+            "name": "Citizen Reports",
+            "emoji": "\ud83d\udce2",
+            "description": "Non-RP Citizen Complaints / Reports",
+            "category_id": 1376217124238000269,
+            "staff_role_id": 1306382245895868476,
+            "embed_color": 15485081,
+            "restricted": false
+        }
+    }
+}
